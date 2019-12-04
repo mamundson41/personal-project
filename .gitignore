@@ -118,5 +118,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
+#keep DB password private
+settings.py
 # End of https://www.gitignore.io/api/django
